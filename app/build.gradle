@@ -35,6 +35,6 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.6.1'
     implementation 'com.google.android.material:material:1.11.0'
 
-    // AdbLib local (o Manus tinha removido)
+    // Shizuku ADB Library (baixada como .aar local)
     implementation files('libs/AdbLib-1.0.1.aar')
 }
